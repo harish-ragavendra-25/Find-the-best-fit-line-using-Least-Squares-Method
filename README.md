@@ -56,7 +56,6 @@ enter a y value:1,3,2,5,7,8,8,9,10,12
 [ 1.23636364  2.40606061  3.57575758  4.74545455  5.91515152  7.08484848
   8.25454545  9.42424242 10.59393939 11.76363636]
 ```
-#### output
 ![Screenshot 2023-09-03 102553](https://github.com/BaskaranV15/Find-the-best-fit-line-using-Least-Squares-Method/assets/118703522/6cdf3a7b-736f-4822-8c91-1d85c34904e9)
 
 ## Result:
